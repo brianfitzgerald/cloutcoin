@@ -1,4 +1,4 @@
-# CloutCoin
+# CloutCoin ![](https://github.com/brianfitzgerald/cloutcoin/blob/master/icon.png)
 ## The Only Good Cryptocurrency
 
 There are exactly 4200 CLOUT in circulation.
